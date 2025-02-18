@@ -1,1 +1,1 @@
-# Amazon.com-Home-Page-s-Clone
+# Amazon.com Home Page's Clone
